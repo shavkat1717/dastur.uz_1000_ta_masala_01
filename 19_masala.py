@@ -1,0 +1,8 @@
+x1=float(input("To'g'ri to'rtburchakning birinchi X uchi koordinatalarini kiriting x1 = "))
+y1=float(input("To'g'ri to'rtburchakning birinchi Y uchi koordinatalarini kiriting y1 = "))
+x2=float(input("To'g'ri to'rtburchakning ikkinchi X uchi koordinatalarini kiriting x2 = "))
+y2=float(input("To'g'ri to'rtburchakning ikkinchi Y uchi koordinatalarini kiriting y2= "))
+P=2*((x2-x1)+(y2-y1))
+S=(x2-x1)*(y2-y1)
+print(f" Koordinatalar ({x1},{y1}) va  ({x2},{y2}) ")
+print(f"To'g'ri to'rtburchakning perimetri P = ",P, ", yuzasi esa S = ",S," ga teng.")
