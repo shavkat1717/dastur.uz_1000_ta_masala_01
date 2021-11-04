@@ -1,0 +1,5 @@
+x=float(input("Mahsulotning kilogrammini kiriting: x = "))
+y=float(input("Ushbu mahsulot necha pul bo'ldi: S = "))
+print(f"Demak {x} kg mahsulot {y} so'm tursa, uning 1 kilogrammi {y/x} so'm turadi")
+a=float(input(" Necha kg konfet olmoqchisiz: a = "))
+print(f"Sizdan {a} kilogramm mahsulot uchun {(y/x)*a} so'm talab qilinadi.")
