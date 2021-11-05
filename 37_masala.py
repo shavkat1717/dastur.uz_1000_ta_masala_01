@@ -1,0 +1,6 @@
+x=float(input("Birinchi avtomobilning tezligini kiriting: V1 = "))
+y=float(input("Ikkinchi avtomobilning tezligini kiriting: V2 = "))
+a=float(input("Dastlab ular orasidagi masofani kiriting: L = "))
+b=float(input("Bir biriga yaqinlashilgan vaqtni kiriting: t = "))
+S=a-b*(x+y)
+print("Ushbu vaqtdan so'ng ikki avtomobil orasidagi masofa S = ", S," km")
