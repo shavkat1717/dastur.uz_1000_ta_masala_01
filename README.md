@@ -1,1 +1,1 @@
-# dastur.uz_1000_ta_masala
+# dastur.uz [00 kiritish, chiqarish, o'zlashtirish operatori]
